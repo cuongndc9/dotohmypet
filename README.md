@@ -7,6 +7,6 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/d
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦖
+Discomfort is the currency of your dreams.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
