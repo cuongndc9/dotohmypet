@@ -8,6 +8,6 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/d
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🧑‍💻,
+Stay curious. Keep learning. Keep growing.
+👀,
 <!-- INSPIRATIONAL_QUOTE_END -->
