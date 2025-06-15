@@ -8,5 +8,5 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/d
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->
