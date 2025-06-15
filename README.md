@@ -8,5 +8,5 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/d
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->
