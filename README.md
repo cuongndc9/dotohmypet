@@ -8,5 +8,5 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/d
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
 <!-- INSPIRATIONAL_QUOTE_END -->
